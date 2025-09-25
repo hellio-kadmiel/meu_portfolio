@@ -6,7 +6,7 @@
 
 
 
-Estudante de \*\*Ciência da Computação\*\* no 6° semestre, apaixonado por desenvolvimento backend com \*\*Java\*\*. 
+Estudante de **Ciência da Computação** no 6° semestre, apaixonado por desenvolvimento backend com **Java**. 
 
 Focado em construir soluções robustas e sempre em busca de novos desafios tecnológicos.
 
